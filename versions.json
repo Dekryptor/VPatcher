@@ -2,9 +2,9 @@
     "versions": [
         {
             "version": "5.15.0.325 < Current >",
-            "link": "http://127.0.0.1/LoLExePatcher/clientversions/League%20of%20Legends-5.15.0.325.exe",
-            "newest": true,
-            "switch": true
+            "link": "https://dl.dropboxusercontent.com/s/obxljl94ezzc89u/League%20of%20Legends-5.15.0.325.exe",
+            "newest": false,
+            "switch": false
         },
         {
             "version": "5.14.0.334",
