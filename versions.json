@@ -1,9 +1,15 @@
 {
     "versions": [
         {
+            "version": "5.15.0.333 < Current >",
+            "link": "https://dl.dropboxusercontent.com/s/gywwxzwse7pwhrn/League%20of%20Legends-5.15.333%5BHF1%5D.exe",
+            "newest": true,
+            "switch": false
+        },
+        {
             "version": "5.15.0.325",
             "link": "https://dl.dropboxusercontent.com/s/obxljl94ezzc89u/League%20of%20Legends-5.15.0.325.exe",
-            "newest": true,
+            "newest": false,
             "switch": false
         },
         {
